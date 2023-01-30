@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.heading h2{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.details{
+/* border:2px solid red; */
+}
+
+.main-detail{
+    border:2px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+    width:50%;
+    margin: 0 auto;
+}
+.main-detail label{
+    font-size:1.5rem;
+    margin-top: 1rem;
+}
+.main-detail input[type="submit"]{
+    margin-top: 1rem;
+}
+.list-detail h5 p{
+    font-weight: normal;
+    
+}
+.line{
+    width: 100%;
+}
